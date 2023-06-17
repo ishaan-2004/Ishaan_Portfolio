@@ -21,17 +21,17 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /Ishaan_portfolio
+logoURL: /Ishaan_Portfolio
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /Ishaan_portfolio
-header-item2-link: /Ishaan_portfolio/about
-header-item3-link: /Ishaan_portfolio/blogs
-header-item4-link: /Ishaan_portfolio/projects
+header-item1-link: /Ishaan_Portfolio
+header-item2-link: /Ishaan_Portfolio/about
+header-item3-link: /Ishaan_Portfolio/blogs
+header-item4-link: /Ishaan_Portfolio/projects
 cta-item2: Schedule a Meeting
-cta-item2-link: /Ishaan_portfolio/meet
+cta-item2-link: /Ishaan_Portfolio/meet
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
